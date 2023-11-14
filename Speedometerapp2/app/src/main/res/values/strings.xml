@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Speedometer app</string>
+    <string name="speedo_app">Speedo App</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="km_h">Km/h</string>
+    <string name="textview">0</string>
+    <string name="textview2">Km/h</string>
+    <string name="mph">Mph</string>
+    <string name="set">Set</string>
+    <string name="limiter">Limiter</string>
+    <string name="Records">Records</string>
+    <string name="_0">0</string>
+    <string name="distance">Distance:</string>
+    <string name="km_hDistance">Km/h</string>
+</resources>
